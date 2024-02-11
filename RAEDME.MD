@@ -13,7 +13,7 @@ This simple Python program uses the Turtle graphics library to create a racing g
 1. Clone or download the repository to your local machine.
 
 ```bash
-git clone https://github.com/kilundi/turtle-racing-game.git
+git clone https://github.com/your_username/turtle-racing-game.git
 ```
 
 2. Open the terminal or command prompt and navigate to the project directory.
