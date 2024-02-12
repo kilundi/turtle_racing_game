@@ -6,7 +6,7 @@ WIDTH, HEIGHT = 500, 500
 COLORS = ['red', 'green', 'blue', 'orange', 'yellow', 'black','purple', 'pink', 'brown', 'cyan' ]
 
 
-racer = 0
+# racer = 0
 def get_number_of_turtles():
     while True:
         turtles = input("Enter the number of turtles (2 - 10): ")
@@ -56,6 +56,7 @@ def create_turtles(colors):
 
 def init_turtles():
     screen = turtle.Screen()
+    screen.bgcolor("khaki")
     screen.setup(WIDTH, HEIGHT)
     screen.title('Turtle Racing!')
 
